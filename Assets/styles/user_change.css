@@ -1,0 +1,23 @@
+
+/* Fonts */
+@import url(http://fonts.googleapis.com/css?family=Droid+Sans:400,700);
+
+/* normal font */
+h1, h2, h3, h4, h5, h6, .dropTrigger, .dropdown-menu > li > a span, .callUsTop span, .topmenu ul li a, .topRightLinks a, input[type="text"], .mainMenu ul li a, .resp-tabs-list li, .generalForm label, .generalForm input[type="text"], .generalForm select, .generalForm input[type="submit"], .customSelect, .shortOffer .price span, #specialOffers .item span, .newsList ul li a, p.black, #newsletter input[type="text"], #newsletter input[type="submit"], .footerMenu ul li a, .copy, .innerTitle h2, .breadcrumb ul li, .breadcrumb ul li a, .contactDetails p, .bookingHead span, .bookingInfos2 em, #priceFilter label, .checkFilter span, .listHead .show, #sidebarBook .totalTitle {font-family:'Droid Sans', arial, tahoma, verdana, sans-serif;font-weight:400;}
+
+/* bold font */
+.caption, .shortOffer .price em, #specialOffers .item .priceTag, .footerTop h5, .bookingInfos2 span, .bookingInfos3 span, #sidebarBook .roomPrice span, #sidebarBook .totalPrice, .hotelPhone, #detailSlider .caption .fontBig, .aveRate span {font-family:'Droid Sans', arial, tahoma, verdana, sans-serif;font-weight:700;}
+
+
+
+/* main color - font */
+.dropdown.open .dropTrigger, .dropTrigger:hover, .callUsTop span a, .generalForm label span, .generalForm .error, .shortOffer .price em, .innerTitle h2 span, .newsList ul li a, .footerTop h5 span, .copy span, #loginModal h6, .breadcrumb ul li.active, .bookingInfos2 span, .bookingInfos3 span, #priceFilter label, .listHead .show span, .dropdownFilter em, #sidebarBook .roomPrice span, #sidebarBook .totalTitle, #sidebarBook .totalPrice, .hotelPhone, .hotelPhone:hover, #detailTab p span, #detailTab h6 {color:#CC0000;}
+
+/* main color - background */
+#bookingTabs .resp-tab-active, .generalForm input[type="submit"], #bookingTabs h2.resp-tab-active, .pager ul li a:hover, .pager ul li.active a {background-color:#CC0000 !important;}
+
+/* main color - border */
+#loginForm .loginName.error, #loginForm .loginPass.error, #contactForm input.error, .generalForm textarea.error, #bookingForm input.error {border-color:#CC0000 !important;}
+
+/* main color - gradient */
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:hover span, .mainMenuContainer, #newsletter input[type="submit"], .btn {background-color:#CC0000;background-image:linear-gradient(to bottom, #ff5313 0px, #df3c00 100%);background-repeat:repeat-x;}
