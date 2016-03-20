@@ -1,7 +1,7 @@
 $(document).ready(function(){
 	
 	var config = {
-	
+		siteURL		: 'tutorialzine.com',	// Change this to your site
 		searchSite	: true,
 		type		: 'web',
 		append		: false,
@@ -174,7 +174,7 @@ $(document).ready(function(){
 			break;
 		}
 		
-	
+		// The toString method.
 		this.toString = function(){
 			return arr.join('');
 		}
